@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omateusterra
+- 👋 Hi, my Name is Mateus Terra, I´m a brazillian dev
 - 👀 I’m interested in Finance, Coding and Marketplaces.
 - 🌱 I’m currently learning JavaScrpit, Angular, NodeJS and TypeScript
 - 💞️ I’m looking to collaborate on 
